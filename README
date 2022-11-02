@@ -1,4 +1,7 @@
-*** This is the old and deprecated VDR-NG-EM unstable repository, archived here for historical reasons. ***
+⚠️ Archived
+-----------
+This is the old, deprecated, VDR-M7x0 SVN repository on Assembla, archived here for historical reasons as the original is no longer public anymore.
+The new repository is https://github.com/bittor7x0/VDR-M7x0
 
 
 What is VDR-NG-EM ?
@@ -7,9 +10,9 @@ VDR-NG-EM is a Open Source firmware (except drivers) for Siemens Gigaset M740AV
 and M750T EPG, based in VDR-NG from open7x0.org with nice new features.
 Also is available a RootFS version for Lemmi firm with VDR binary and plugins.
 
-His full name is: Video Disk Recorder - Next Generation - Edici�n Mejorada
+His full name is: Video Disk Recorder - Next Generation - Edición Mejorada
 Initially it was just a version translated to spanish called VDR-NG-ES and later
-were added some improvements and changed to VDR-NG-EM "Edici�n Mejorada" (in
+were added some improvements and changed to VDR-NG-EM "Edición Mejorada" (in
 english "Enhanced Edition").
 
 
